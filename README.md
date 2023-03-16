@@ -1,4 +1,4 @@
-# spotifysleeptimer
+# spotify_sleep_timer
 Auto close spotify after a given time
 
 Hello there!
